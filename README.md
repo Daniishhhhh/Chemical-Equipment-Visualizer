@@ -198,15 +198,5 @@ Desktop application integration
 PDF generation
 
 👨‍💻 Developer
-
 Danish Sidiq                                                                                                                                                                       
 Computer Science Engineering Student
-
-
-
-✔ Backend API working
-✔ Web frontend integrated
-✔ Desktop app integrated
-✔ GitHub repository updated
-✔ README documentation complete
-✔ Demo video recorded
