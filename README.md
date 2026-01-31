@@ -1,7 +1,7 @@
 
 
 ********Chemical Equipment Parameter Visualizer********
-****Hybrid Web + Desktop Application****
+(****Hybrid Web + Desktop Application****)
 
 **📌 Project Overview**
 
@@ -18,35 +18,20 @@ This project demonstrates full-stack development, API integration, data analytic
 
 **🧰 Tech Stack**
 Backend
-
 Django
-
 Django REST Framework
-
 Pandas
-
 SQLite
-
 Web Frontend
-
 React.js
-
 Chart.js
-
 Axios
-
 Desktop Application
-
 PyQt5
-
 Matplotlib
-
 Requests
-
 Version Control
-
 Git
-
 GitHub
 
 **📁 Project Structure**
@@ -60,35 +45,23 @@ Chemical-Equipment-Visualizer/
 **✅ Features Implemented**
 
 CSV Upload (Web + Desktop)
-
 Automatic Data Processing using Pandas
-
 Summary Statistics Generation
-
 Equipment Type Distribution Visualization
-
 Interactive Charts (Web: Chart.js)
-
 Desktop Charts (Matplotlib)
-
 Upload History Management (Last 5 Records)
-
 PDF Report Generation
-
 Basic Authentication System
-
 Hybrid Architecture with Common Backend API
 
 🗂 Sample CSV Format
-
 CSV File should contain following columns:
-
 Equipment Name
 Type
 Flowrate
 Pressure
 Temperature
-
 
 Example file: sample_equipment_data.csv
 
@@ -140,25 +113,17 @@ python main.py
 **🔄 Application Workflow**
 
 User uploads CSV file (Web or Desktop)
-
 Backend parses file using Pandas
-
 Summary statistics generated
-
 Data stored in SQLite database
-
 Charts and tables updated dynamically
-
 History of last 5 uploads maintained
-
 PDF report generated on request
 
 **🔐 Authentication**
 
 Basic login system implemented
-
 Required for protected API endpoints
-
 Same backend authentication shared between Web and Desktop clients
 
 **🎥 Demo Video**
@@ -166,15 +131,12 @@ Same backend authentication shared between Web and Desktop clients
 A demo video is included with the submission showing:
 
 Backend running
-
 Web app CSV upload and visualization
-
 Desktop app functionality
-
 History tracking
-
 PDF generation
 
 **👨‍💻 Developer**
-Danish Sidiq
+Danish Sidiq                                                                                                                                                                                               
 Computer Science & Engineering
+
